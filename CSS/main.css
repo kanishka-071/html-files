@@ -1,0 +1,21 @@
+h6{
+    color: blue;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    font-family:Arial, Helvetica, sans-serif;
+    letter-spacing:1px;
+}
+h2{
+    color: blue;
+    background-color: rgb(201, 230, 220);
+}
+.important{
+    font-style: italic; color: blueviolet;
+}
+.main{
+    color: blue;
+}
+h1{
+    background-color: rgb(235, 218, 198);
+}

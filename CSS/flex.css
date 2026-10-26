@@ -1,0 +1,30 @@
+.container{
+   border: 2px solid black; 
+   width: 500px;
+   height: 500px;
+   background-color: rgb(168, 222, 204);
+}
+.box1{
+    border: 2px solid black;
+    margin-top: 2px;
+    background-color: bisque;
+
+}
+.box2{
+    border: 2px solid black;
+    margin-top: 2px;
+    background-color:brown;
+    color: white;
+}
+.box3{
+    border: 2px solid black;
+    margin-top: 2px;
+    background-color: bisque;
+}
+
+.box4{
+    border: 2px solid black;
+    margin-top: 2px;
+    background-color:brown;
+    color: white
+}
